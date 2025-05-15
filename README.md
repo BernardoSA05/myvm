@@ -28,7 +28,3 @@
 # - Startups que querem escalar rapidamente.
 # - Grandes empresas que buscam migração de data centers físicos.
 # - Projetos de análise preditiva, IoT e automação empresarial.
-
-# OBSERVAÇÃO:
-# Para utilizar a Azure, é necessário criar uma conta no portal (https://portal.azure.com),
-# configurar um grupo de recursos e contratar os serviços desejados conforme o projeto.
